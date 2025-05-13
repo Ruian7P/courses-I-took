@@ -1,0 +1,13 @@
+1. Preprocessing: 
+  gcc -E hello.c > hello.i
+  (Past in file Include File, Delete comments)
+
+2. Complication: 
+    (1) create the assembly code (compiler):
+            gcc -S hello.i
+    (2) create the executable code (assembler):
+            gcc -o hello.s
+            （hello.s: Binary Code)
+3. Linking (linker):
+    gcc hello.o
+    (linked the binary code for hello.c program with the code from C library (eg. printf), produuce runnable binary .exe file)
