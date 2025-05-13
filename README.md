@@ -16,6 +16,7 @@ This repo contains courses and notes I took during my study.
 
 - [**Linear Algebra**](./2024-Spring/Linear-Algebra)
 - [**Computer System Organization**](./2024-Spring/Computer-System-Organization)
+- [**Code!**](./2024-Spring/Code!)
 
 
 
