@@ -29,6 +29,8 @@ This repo contains courses and notes I took during my study.
 
 - [**Probability and Statistics**](./2024-Fall/Probability-and-Statistics)
 
+- [**Operating Systems**](./2024-Fall/Operating-Systems)
+
 - [**Computer Vision**](./2024-Fall/Computer-Vision)
 - (graduate level) [**Intro to Data Science**](./2024-Fall/Intro-to-Data-Science)
 
