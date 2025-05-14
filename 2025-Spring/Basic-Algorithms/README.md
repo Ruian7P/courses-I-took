@@ -13,8 +13,8 @@ Only for Personal Records and Reviews: Sophomore 2025 Spring (fourth semester)
 ## Menu
 
 NYU CSCI-UA 310: Basic Algorithms
-- [complexity](./notes/complexity.md)
-- [sort](./notes/sort.md)
-- [dynamic_programming](./notes/dynamic_programming.md)
-- [graph algorithms](./notes/graph_algo.md)
-- [computability and complexity](computability_complexity.md)
+- [complexity](./notes/1.complexity.md)
+- [sort](./notes/2.sort.md)
+- [dynamic_programming](./notes/3.dynamic_programming.md)
+- [graph algorithms](./notes/4.graph_algo.md)
+- [computability and complexity](./notes/5.computability_complexity.md)

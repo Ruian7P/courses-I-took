@@ -17,3 +17,7 @@ NYU CSCI-UA 473: Fundamentals of Machine Learning
 - [**Unsupervised Learning**](./notes/Unsupervised_Learning.md)
 - [**Neural Networks**](./notes/Neural_Networks.md)
 - [**Reinforcement Learning**](./notes/Reinforce_Learning.md)
+
+
+
+- [**cheatsheet**](./cheatsheet.pdf)
