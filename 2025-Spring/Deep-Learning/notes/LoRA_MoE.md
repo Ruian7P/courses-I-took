@@ -1,8 +1,8 @@
 # LoRA
 
-![image-20250604150300023](LoRA_MOE.assets/image-20250604150300023.png)
+![image-20250604150300023](LoRA_MoE.assets/image-20250604150300023.png)
 
-![image-20250604150316866](LoRA_MOE.assets/image-20250604150316866.png)
+![image-20250604150316866](LoRA_MoE.assets/image-20250604150316866.png)
 
 ### Code
 
@@ -59,7 +59,7 @@ class LoRALinear(nn.Module):
 
 # MoE
 
-![image-20250604150801633](LoRA_MOE.assets/image-20250604150801633.png)
+![image-20250604150801633](LoRA_MoE.assets/image-20250604150801633.png)
 
 ### Code
 
