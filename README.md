@@ -42,3 +42,14 @@ This repo contains courses and notes I took during my study.
 - [**Basic Algorithms**](./2025-Spring/Basic-Algorithms)
 - [**Fundamentals of Machine Learning**](./2025-Spring/fundamentals-of-Machine-Learning)
 - (graduate level) [**Deep Learning**](./2025-Spring/Deep-Learning)
+
+
+
+
+
+### [Annotated Paper](./Annotated_Paper)
+
+
+
+
+
