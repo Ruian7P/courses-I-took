@@ -47,6 +47,14 @@ This repo contains courses and notes I took during my study.
 
 
 
+### Semester 5: 2025 Fall
+
+- [**(Advanced) Computer Vision**](./2025-Fall/Computer-Vision)
+- [**Code! 2**](./2025-Fall/Code!2)
+- [**Core - Culture & Context: Japan**](./2025-Fall/Core-Culture&Context-Japan)
+
+
+
 ### [Annotated Paper](./Annotated_Paper)
 
 
